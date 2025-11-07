@@ -1,4 +1,4 @@
-# Deployment Pipeline (Vercel Clone)
+# Deployment Pipeline 
 
 A **cloud-based deployment pipeline** that automatically builds and deploys **React.js applications** directly from GitHub repositories.
 
@@ -25,7 +25,7 @@ This provides an end-to-end automated workflow — from source code to live host
 
 The project consists of multiple interconnected services:
 
-- **API Server** – Handles authentication, deployment requests, and manages project metadata.  
+- **API Server** – Handles authentication, authorization, deployment requests, and manages project metadata.  
 - **Build Servers (AWS ECS Tasks)** – Containerized workers that perform the build and upload artifacts to S3.  
 - **Reverse Proxy Server** – Streams built files from S3 to the user’s browser for live preview or production hosting.  
 - **Database (PostgreSQL)** – Stores users, projects, and deployment metadata.  

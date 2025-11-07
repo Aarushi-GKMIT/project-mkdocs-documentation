@@ -1,6 +1,6 @@
 # Functional Use Cases
 
-This section defines the main **functional behaviors** of the Deployment Pipeline (Vercel Clone).  
+This section defines the main **functional behaviors** of the Deployment Pipeline.  
 Each use case explains how different system components interact internally to deliver a key feature.
 
 ---

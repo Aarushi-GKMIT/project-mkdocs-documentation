@@ -1,11 +1,12 @@
 # Business Overview
 
 ## Objective
-To provide a seamless automated deployment solution for frontend developers who want to host React applications quickly, without manual configuration.
+To provide a seamless automated deployment solution for frontend developers who want to host React applications quickly, without worrying about the underlying infrastructure and hosting the frontend application.
 
 ## Stakeholders
 - **End Users (Developers):** Use the platform to deploy and host React apps.
-- **Admin / DevOps Team:** Maintain build servers, monitor deployments.
+- **DevOps Team:** Maintain build servers, monitor deployments, ensuring scalability and uptime.
+- **Admin:** Maintain build servers, monitor deployments.
 - **Business Owner:** Ensures scalability, manages billing and uptime.
 
 ## Business Problem

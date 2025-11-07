@@ -1,15 +1,15 @@
-# Functional Overview
+# System Overview
 
-The **Deployment Pipeline (Vercel Clone)** automates the process of building, deploying, and hosting frontend applications directly from GitHub repositories.  
+The **Deployment Pipeline** automates the process of building, deploying, and hosting frontend applications directly from GitHub repositories.  
 It enables users to go from source code to a live, shareable URL without manual setup or server configuration.
 
 ---
 
-## How It Works
+## Workflow Summary
 
 When a user provides a GitHub repository URL and triggers deployment, the system executes a series of automated functions that ensure seamless application delivery.
 
-### Step-by-Step Process
+### End-to-End Deployment Flow
 
 1. **Repository Cloning**  
    - The API server authenticates the GitHub URL provided by the user.  
