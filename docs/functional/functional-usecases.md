@@ -1,6 +1,6 @@
 # Functional Use Cases
 
-This section defines the main **functional behaviors** of the Deployment Pipeline.  
+This section defines the main functional behaviors of the Deployment Pipeline.  
 Each use case explains how different system components interact internally to deliver a key feature.
 
 ---
@@ -45,7 +45,7 @@ Each use case explains how different system components interact internally to de
 **Goal:** Automate the build and deployment process when a user triggers a deployment.
 
 **Flow:**
-1. User triggers **Deploy** from the dashboard.  
+1. User triggers Deploy from the dashboard.  
 2. API creates a deployment record and pushes a build task to ECS.  
 3. The ECS container clones the GitHub repository from the provided URL.  
 4. The build process (`npm install`, `npm run build`, etc.) runs inside the container.  

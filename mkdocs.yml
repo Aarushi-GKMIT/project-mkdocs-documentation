@@ -11,8 +11,12 @@ nav:
   - Use Case Documentation:
       - Business Overview: use-cases/business-overview.md
 
+  - Schema Design: 
+      - Tables and ER Diagram: data-modelling/tables-and-er-diagram.md
+      - Indexing: data-modelling/indexing.md
 plugins:
   - search
+  - mermaid2
 
 
 
