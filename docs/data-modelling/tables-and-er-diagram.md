@@ -9,7 +9,7 @@ This section outlines the database schema used in the project, detailing each ta
 | Field | Type | Constraints | Description / Use Case |
 |-------|------|--------------|-------------------------|
 | `id` | String (UUID) | Primary Key | Unique identifier for each user. |
-| `name` | String (Optional) |  | User’s full name for display. |
+| `name` | String |  | User’s full name for display. |
 | `email` | String | Unique, Indexed | Used for authentication and identification. |
 | `role` | String | User and Admin Role
 | `password` | String |  | Securely stored hashed password. |
