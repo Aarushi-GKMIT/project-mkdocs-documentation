@@ -35,4 +35,10 @@ mkdocs build
 # Theme 
 pip install mkdocs-material
 
+Added data modelling to the doucmentation. In this three tables User, Project and Deployment are there along with the ER Diagram and Indexing.
+
+# For mermaid
+pip install mkdocs-mermaid2-plugin
+
+
 
