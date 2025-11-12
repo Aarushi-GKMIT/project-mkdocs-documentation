@@ -7,9 +7,13 @@ This document describes the complete AWS infrastructure setup for the project, i
 
 ## Infrastructure Diagram
 
-![AWS Infrastructure](../images/aws-specific-architecture.png)
+![AWS Infrastructure](../images/aws-specific-architecture.svg)
 
 ---
+
+## Vercel
+
+Use vercel for deployment of frontend.
 
 ## AWS Services
 
