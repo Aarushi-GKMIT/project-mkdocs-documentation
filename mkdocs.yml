@@ -20,6 +20,7 @@ nav:
       - Data-Flow-Diagram: technical-document/data-flow-diagram.md
       - Authentication-And-Autherization: technical-document/authentication-and-autherization.md
       - Technical Stack: technical-document/technical-stack.md
+      - Unit Test Plan: technical-document/test-plan.md
 plugins:
   - search
   - mermaid2
