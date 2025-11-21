@@ -11,9 +11,13 @@ This document describes the complete AWS infrastructure setup for the project, i
 
 ---
 
-## Vercel
+## EC2 
 
-Use vercel for deployment of frontend.
+**Frontend is deployed on EC2**
+
+
+---
+
 
 ## AWS Services
 
@@ -61,7 +65,6 @@ Contains publicly accessible resources:
 - **Purpose**: Hosts backend application server
 - **Network**: Public subnet
 - **Connections**: 
-  - Downstream: Amazon RDS
   - Upstream: User requests
 
 #### Amazon ECS (Elastic Container Service)
