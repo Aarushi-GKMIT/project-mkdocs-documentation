@@ -190,4 +190,14 @@ npm run test:coverage
 ```
 
 
+## Test Execution
+
+![Test cases](../images/unit-test-cases.jpeg)
+
+
+## Code Coverage
+
+![Coverage Report](../images/coverage-screenshort.jpeg)
+
+
 

@@ -21,6 +21,9 @@ nav:
       - Authentication-And-Autherization: technical-document/authentication-and-autherization.md
       - Technical Stack: technical-document/technical-stack.md
       - Unit Test Plan: technical-document/test-plan.md
+      - CI/CD Pipeline and Deployment Flow: technical-document/ci-cd-pipeline-deployment-flow.md
+      - Code Merge Workflow: technical-document/code-merge-workflow.md
+      - Security Scanning: technical-document/Security-Scanning.md
 plugins:
   - search
   - mermaid2

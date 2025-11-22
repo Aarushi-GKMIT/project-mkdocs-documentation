@@ -5,9 +5,14 @@ This document describes the complete AWS infrastructure setup for the project, i
 
 ---
 
+## Architecture Diagram
+![Architecture Diagram](../images/full-project-architecture.png)
+
+
 ## Infrastructure Diagram
 
 ![AWS Infrastructure](../images/aws-specific-architecture.svg)
+
 
 ---
 
